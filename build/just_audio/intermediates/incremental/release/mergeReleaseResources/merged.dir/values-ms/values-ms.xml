@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Sedang dimainkan"</string>
+    <string name="exo_download_completed">Muat turun selesai</string>
+    <string name="exo_download_description">Muat turun</string>
+    <string name="exo_download_downloading">Memuat turun</string>
+    <string name="exo_download_failed">Muat turun gagal</string>
+    <string name="exo_download_notification_channel_name">Muat turun</string>
+    <string name="exo_download_paused">Muat turun dijeda</string>
+    <string name="exo_download_paused_for_network">Muat turun menunggu rangkaian</string>
+    <string name="exo_download_paused_for_wifi">Muat turun menunggu Wi-Fi</string>
+    <string name="exo_download_removing">Mengalih keluar muat turun</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Jeda"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Main"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Langkau ke item seterusnya"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Langkau ke item sebelumnya"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

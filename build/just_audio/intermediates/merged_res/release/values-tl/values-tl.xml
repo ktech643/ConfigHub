@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Nagpi-play ngayon"</string>
+    <string name="exo_download_completed">Tapos na ang pag-download</string>
+    <string name="exo_download_description">I-download</string>
+    <string name="exo_download_downloading">Nagda-download</string>
+    <string name="exo_download_failed">Hindi na-download</string>
+    <string name="exo_download_notification_channel_name">Mga Download</string>
+    <string name="exo_download_paused">Na-pause ang mga pag-download</string>
+    <string name="exo_download_paused_for_network">Naghihintay ng network ang pag-download</string>
+    <string name="exo_download_paused_for_wifi">Naghihintay ng WiFi ang mga pag-download</string>
+    <string name="exo_download_removing">Inaalis ang mga na-download</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"I-pause"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"I-play"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Lumaktaw sa susunod na item"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Lumaktaw sa nakaraang item"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

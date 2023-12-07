@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Одоо тоглуулж байна"</string>
+    <string name="exo_download_completed">Татаж дууссан</string>
+    <string name="exo_download_description">Татах</string>
+    <string name="exo_download_downloading">Татаж байна</string>
+    <string name="exo_download_failed">Татаж чадсангүй</string>
+    <string name="exo_download_notification_channel_name">Татaлт</string>
+    <string name="exo_download_paused">Таталтуудыг түр зогсоосон</string>
+    <string name="exo_download_paused_for_network">Таталтууд сүлжээг хүлээж байна</string>
+    <string name="exo_download_paused_for_wifi">Таталтууд Wi-Fi-г хүлээж байна</string>
+    <string name="exo_download_removing">Татаж авсан файлыг хасаж байна</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Түр зогсоох"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Тоглуулах"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Дараагийн зүйл рүү алгасах"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Өмнөх зүйл рүү алгасах"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

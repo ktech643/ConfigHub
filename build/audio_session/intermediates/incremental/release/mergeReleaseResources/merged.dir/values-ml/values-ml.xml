@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"ഇപ്പോൾ പ്ലേ ചെയ്യുന്നത്"</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"താൽക്കാലികമായി നിർത്തുക"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"പ്ലേ ചെയ്യുക"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"അടുത്ത ഇനത്തിലേക്ക് പോകുക"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"മുമ്പത്തെ ഇനത്തിലേക്ക് പോകുക"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

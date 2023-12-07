@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/drawable/notification_bg_low.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-1:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/drawable/notification_tile_bg.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-1:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/drawable/notification_bg.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-1:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/drawable/notification_icon_background.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-1:/drawable/notification_icon_background.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"आता प्ले करत आहे"</string>
+    <string name="exo_download_completed">डाउनलोड पूर्ण झाले</string>
+    <string name="exo_download_description">डाउनलोड करा</string>
+    <string name="exo_download_downloading">डाउनलोड होत आहे</string>
+    <string name="exo_download_failed">डाउनलोड अयशस्वी झाले</string>
+    <string name="exo_download_notification_channel_name">डाउनलोड</string>
+    <string name="exo_download_paused">डाउनलोड थांबवले</string>
+    <string name="exo_download_paused_for_network">डाउनलोड नेटवर्कची प्रतीक्षा करत आहेत</string>
+    <string name="exo_download_paused_for_wifi">डाउनलोड वायफाय ची प्रतीक्षा करत आहेत</string>
+    <string name="exo_download_removing">डाउनलोड काढून टाकत आहे</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"थांबवा"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"प्ले करा"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"पुढील आयटमवर जा"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"मागील आयटमवर जा"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"९९९+"</string>
+</resources>

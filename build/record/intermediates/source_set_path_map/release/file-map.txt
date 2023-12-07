@@ -1,0 +1,12 @@
+com.llfbandit.record-jetified-window-java-1.0.0-beta04-0 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.llfbandit.record-core-1.6.0-1 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.llfbandit.record-jetified-annotation-experimental-1.1.0-2 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.llfbandit.record-jetified-window-1.0.0-beta04-3 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.llfbandit.record-main-4 C:\Users\ShaHzaiB_MuGhaL\AppData\Local\Pub\Cache\hosted\pub.dev\record-4.4.4\android\src\main\res
+com.llfbandit.record-release-5 C:\Users\ShaHzaiB_MuGhaL\AppData\Local\Pub\Cache\hosted\pub.dev\record-4.4.4\android\src\release\res
+com.llfbandit.record-pngs-6 D:\infoshaa\configHub\build\record\generated\res\pngs\release
+com.llfbandit.record-resValues-7 D:\infoshaa\configHub\build\record\generated\res\resValues\release
+com.llfbandit.record-rs-8 D:\infoshaa\configHub\build\record\generated\res\rs\release
+com.llfbandit.record-mergeReleaseResources-9 D:\infoshaa\configHub\build\record\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.llfbandit.record-mergeReleaseResources-10 D:\infoshaa\configHub\build\record\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.llfbandit.record-merged_res-11 D:\infoshaa\configHub\build\record\intermediates\merged_res\release

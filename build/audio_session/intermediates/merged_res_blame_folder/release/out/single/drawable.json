@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable/notification_tile_bg.xml",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable/notification_bg.xml",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable/notification_bg_low.xml",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable/notification_icon_background.xml",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable/notification_icon_background.xml"
+    }
+]

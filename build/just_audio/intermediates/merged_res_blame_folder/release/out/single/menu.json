@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ryanheise.just_audio-merged_res-16:/menu/example_menu.xml",
+        "source": "com.ryanheise.just_audio-core-1.7.0-3:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.ryanheise.just_audio-merged_res-16:/menu/example_menu2.xml",
+        "source": "com.ryanheise.just_audio-core-1.7.0-3:/menu/example_menu2.xml"
+    }
+]

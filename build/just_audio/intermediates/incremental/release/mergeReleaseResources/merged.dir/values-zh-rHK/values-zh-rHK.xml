@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"現正播放"</string>
+    <string name="exo_download_completed">下載完畢</string>
+    <string name="exo_download_description">下載</string>
+    <string name="exo_download_downloading">正在下載</string>
+    <string name="exo_download_failed">下載失敗</string>
+    <string name="exo_download_notification_channel_name">下載內容</string>
+    <string name="exo_download_paused">已暫停下載</string>
+    <string name="exo_download_paused_for_network">正在等待網絡連線以下載檔案</string>
+    <string name="exo_download_paused_for_wifi">正在等待 Wi-Fi 連線以下載檔案</string>
+    <string name="exo_download_removing">正在移除下載內容</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"暫停"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"播放"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"跳去下一個項目"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"跳去上一個項目"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

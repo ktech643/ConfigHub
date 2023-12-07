@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/media_session_service_notification_ic_music_note.png",
+        "source": "com.ryanheise.audio_session-jetified-media2-session-1.2.1-6:/drawable-mdpi-v4/media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/media_session_service_notification_ic_pause.png",
+        "source": "com.ryanheise.audio_session-jetified-media2-session-1.2.1-6:/drawable-mdpi-v4/media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/media_session_service_notification_ic_play.png",
+        "source": "com.ryanheise.audio_session-jetified-media2-session-1.2.1-6:/drawable-mdpi-v4/media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/media_session_service_notification_ic_skip_to_previous.png",
+        "source": "com.ryanheise.audio_session-jetified-media2-session-1.2.1-6:/drawable-mdpi-v4/media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/media_session_service_notification_ic_skip_to_next.png",
+        "source": "com.ryanheise.audio_session-jetified-media2-session-1.2.1-6:/drawable-mdpi-v4/media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "com.ryanheise.audio_session-merged_res-13:/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "com.ryanheise.audio_session-core-1.6.0-1:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

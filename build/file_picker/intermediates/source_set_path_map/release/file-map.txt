@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-0 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-2 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-3 C:\Users\ShaHzaiB_MuGhaL\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\ShaHzaiB_MuGhaL\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.3.1\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\ShaHzaiB_MuGhaL\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.3.1\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 D:\infoshaa\configHub\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 D:\infoshaa\configHub\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 D:\infoshaa\configHub\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 D:\infoshaa\configHub\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 D:\infoshaa\configHub\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 D:\infoshaa\configHub\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 D:\infoshaa\configHub\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mr.flutter.plugin.filepicker.file_picker-merged_res-10:/drawable/notification_bg.xml",
+        "source": "com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.mr.flutter.plugin.filepicker.file_picker-merged_res-10:/drawable/notification_bg_low.xml",
+        "source": "com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.mr.flutter.plugin.filepicker.file_picker-merged_res-10:/drawable/notification_icon_background.xml",
+        "source": "com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.mr.flutter.plugin.filepicker.file_picker-merged_res-10:/drawable/notification_tile_bg.xml",
+        "source": "com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1:/drawable/notification_tile_bg.xml"
+    }
+]

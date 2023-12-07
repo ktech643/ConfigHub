@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Most játszott tartalom"</string>
+    <string name="exo_download_completed">A letöltés befejeződött</string>
+    <string name="exo_download_description">Letöltés</string>
+    <string name="exo_download_downloading">Letöltés folyamatban</string>
+    <string name="exo_download_failed">Nem sikerült a letöltés</string>
+    <string name="exo_download_notification_channel_name">Letöltések</string>
+    <string name="exo_download_paused">Letöltések szüneteltetve</string>
+    <string name="exo_download_paused_for_network">A letöltések hálózatra várakoznak</string>
+    <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
+    <string name="exo_download_removing">Letöltések törlése folyamatban</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Szünet"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Lejátszás"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Ugrás a következő elemre"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Ugrás az előző elemre"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

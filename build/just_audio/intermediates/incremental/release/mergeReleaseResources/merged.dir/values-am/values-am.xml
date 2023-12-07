@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"አሁን እየተጫወተ ያለ"</string>
+    <string name="exo_download_completed">ማውረድ ተጠናቋል</string>
+    <string name="exo_download_description">አውርድ</string>
+    <string name="exo_download_downloading">በማውረድ ላይ</string>
+    <string name="exo_download_failed">ማውረድ አልተሳካም</string>
+    <string name="exo_download_notification_channel_name">የወረዱ</string>
+    <string name="exo_download_paused">ውርዶች ባሉበት ቆመዋል</string>
+    <string name="exo_download_paused_for_network">አውታረ መረቦችን በመጠባበቅ ላይ ያሉ ውርዶች</string>
+    <string name="exo_download_paused_for_wifi">WiFiን በመጠባበቅ ላይ ያሉ ውርዶች</string>
+    <string name="exo_download_removing">ውርዶችን በማስወገድ ላይ</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"ላፍታ አቁም"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"አጫውት"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"ወደ ቀጣዩ ንጥል ዝለል"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"ወደ ቀዳሚው ንጥል ዝለል"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

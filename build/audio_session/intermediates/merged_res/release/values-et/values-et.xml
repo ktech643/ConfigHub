@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Hetkel mängimas"</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Peatamine"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Esitamine"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Järgmise üksuse juurde liikumine"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Eelmise üksuse juurde liikumine"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

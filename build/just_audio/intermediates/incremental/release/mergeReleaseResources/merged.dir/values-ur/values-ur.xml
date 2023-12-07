@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"ابھی چل رہا ہے"</string>
+    <string name="exo_download_completed">ڈاؤن لوڈ مکمل ہو گیا</string>
+    <string name="exo_download_description">ڈاؤن لوڈ کریں</string>
+    <string name="exo_download_downloading">ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="exo_download_failed">ڈاؤن لوڈ ناکام ہو گیا</string>
+    <string name="exo_download_notification_channel_name">ڈاؤن لوڈز</string>
+    <string name="exo_download_paused">ڈاؤن لوڈز موقوف ہو گئے</string>
+    <string name="exo_download_paused_for_network">ڈاؤن لوڈز نیٹ ورک کے منتظر ہیں</string>
+    <string name="exo_download_paused_for_wifi">ڈاؤن لوڈز WiFi کے منتظر ہیں</string>
+    <string name="exo_download_removing">ڈاؤن لوڈز کو ہٹایا جا رہا ہے</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"موقوف کریں"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"چلائیں"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"اگلے آئٹم پر جائیں"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"پچھلے آئٹم پر جائیں"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"+999"</string>
+</resources>

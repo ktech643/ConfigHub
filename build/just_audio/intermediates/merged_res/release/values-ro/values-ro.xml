@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Now Playing"</string>
+    <string name="exo_download_completed">Descărcarea a fost finalizată</string>
+    <string name="exo_download_description">Descarcă</string>
+    <string name="exo_download_downloading">Se descarcă</string>
+    <string name="exo_download_failed">Descărcarea nu a reușit</string>
+    <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcările așteaptă rețeaua</string>
+    <string name="exo_download_paused_for_wifi">Descărcările așteaptă rețeaua Wi-Fi</string>
+    <string name="exo_download_removing">Se elimină descărcările</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Întrerupeți"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Redați"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Treceți la elementul următor"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Treceți la elementul anterior"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

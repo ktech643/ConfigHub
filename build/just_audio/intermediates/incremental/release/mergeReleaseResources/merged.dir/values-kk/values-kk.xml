@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7213672915724563695" name="default_notification_channel_name">"Ойнатылуда"</string>
+    <string name="exo_download_completed">Жүктеп алынды</string>
+    <string name="exo_download_description">Жүктеп алу</string>
+    <string name="exo_download_downloading">Жүктеп алынуда</string>
+    <string name="exo_download_failed">Жүктеп алынбады</string>
+    <string name="exo_download_notification_channel_name">Жүктеп алынғандар</string>
+    <string name="exo_download_paused">Жүктеп алу процестері уақытша тоқтады.</string>
+    <string name="exo_download_paused_for_network">Жүктеп алу үшін желіге қосылу керек.</string>
+    <string name="exo_download_paused_for_wifi">Жүктеп алу үшін Wi-Fi-ға қосылу керек.</string>
+    <string name="exo_download_removing">Жүктеп алынғандар өшірілуде</string>
+    <string msgid="3510124037191104584" name="pause_button_content_description">"Кідірту"</string>
+    <string msgid="963503759453979404" name="play_button_content_description">"Ойнату"</string>
+    <string msgid="6034072145387511457" name="skip_to_next_item_button_content_description">"Келесі элементке өткізіп жіберу"</string>
+    <string msgid="4352480799561670760" name="skip_to_previous_item_button_content_description">"Алдыңғы элементке өткізіп жіберу"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
